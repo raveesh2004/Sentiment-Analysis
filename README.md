@@ -45,16 +45,12 @@ https://github.com/raveesh2004/sentiment-analysis/blob/main/Valid.csv
 
 ### 2- feature
 - These models are imported from sklearn library of Python.
-> - **Sklearn**- *The sklearn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction.*
-> - **TfidfVectorizer**- *is a feature extraction tool that transforms text documents into numerical representations based on term frequency-inverse document frequency.*
+> - **Keras**- *Keras is a high-level neural networks API written in Python, capable of running on top of TensorFlow, CNTK, or Theano..*
+> - **LSTM**- *LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) architecture designed to model sequences and time series data by preserving long-term dependencies..*
 
-### 3- feature
-> - **Logistic Regression** -*is a machine learning algorithm used for binary classification tasks, estimating the probability of a sample belonging to a particular class.*
-> - **Decision Tree Classifier** -*is a machine learning algorithm used for classification tasks, where it builds a decision tree to predict the class label of a sample based on its features.*
-> - **Gradient Boosting Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones, ultimately improving predictive accuracy.*
-> - **Random Forest Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
-
-## Application of Fake News Detection 
-- Fake news detection technology can be integrated into educational programs to teach individuals critical thinking skills and how to evaluate the credibility of news sources.
-- Fake news detection algorithms can be implemented by social media platforms and online news aggregators to automatically identify and flag potentially false or misleading content. This helps prevent the rapid spread of misinformation through viral sharing.
-- Journalists and fact-checking organizations can utilize fake news detection tools to verify the accuracy of information before publishing news stories. Automated systems assist in identifying dubious claims or sources, ensuring reliable information dissemination.
+## Application of Sentiment analysis  
+- Sentiment analysis helps businesses analyze customer feedback, reviews, and social media comments.
+- It categorizes feedback as positive, negative, or neutral to understand customer satisfaction levels.
+- Sentiment analysis is used to monitor social media, news articles, and online forums for mentions of a brand or product.
+- It tracks brand sentiment over time, detects trends, and identifies potential PR crises early on.
+- Sentiment analysis aids in market research by understanding consumer preferences and identifying emerging trends.
