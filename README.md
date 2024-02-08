@@ -4,7 +4,7 @@
 - It is the process of systematically applying statistical and/or logical techniques such as cleaning, transforming, and modeling data to discover useful information for business decision-making. 
 
 ## Dataset used 
-IMDB dataset
+https://github.com/raveesh2004/sentiment-analysis/blob/main/Test.csv
 
 ## Important instructions
 - **python version should be *latest***
