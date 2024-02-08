@@ -18,17 +18,26 @@ https://github.com/raveesh2004/sentiment-analysis/blob/main/Valid.csv
 - *Python*- for programming and writing logic.
   
 ### Python libraries 
--   matplotlib, numpy, pandas,scikit_learn,seaborn,re,keras.
+-   matplotlib, numpy, pandas,scikit_learn,seaborn,re,keras,nltk.
 ### Algorithms 
-- Machine Learning Algorithms such as Logistic Regression ,Random Forest Classifier ,Decision Tree Classifier and Gradient Boosting Classifier.
+- Deep learning framework like Keras, LSTM model , Dropout technique.
 
 ## Working of the app :
 ### Import libraries and dataset.
 - First of all,import all the required modules and libraries of python.
 - Then, the csv file is loaded to obtain dataset.
-- We combined our datasets of true and fake and we removed all the Null vaules.
-- Then we preprocessed the dataset.
+- Then we preprocessed the dataset by coverting all text to lowercase remove punctuations etc.
 - Then different machine learning algorithms were applied .
+### Tokenize
+- Separate positive and negative reviews
+- Visualize practical words for positive reviews
+- Visualize practical words for negative reviews
+### Encode the words and labels
+
+### Analyse reviews length
+-Removing Outliers - Getting rid of extremely long or short reviews
+
+### Define the LSTM Network Architecture
 
 ### Adding functionality : 1- feature
 > - **NumPy**- *It is  a Python package used for performing the various numerical computations and processing of the multidimensional and single-dimensional array elements.*
