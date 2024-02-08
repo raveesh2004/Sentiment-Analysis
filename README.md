@@ -5,6 +5,8 @@
 
 ## Dataset used 
 https://github.com/raveesh2004/sentiment-analysis/blob/main/Test.csv
+https://github.com/raveesh2004/sentiment-analysis/blob/main/Train.zip
+https://github.com/raveesh2004/sentiment-analysis/blob/main/Valid.csv
 
 ## Important instructions
 - **python version should be *latest***
